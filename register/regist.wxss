@@ -1,0 +1,27 @@
+/* pages/register/regist.wxss */
+
+page{
+
+   background: #F0F0F0 ;
+
+}
+.usernameinput{
+height: 100rpx;
+
+  margin-left: 50rpx;
+
+  color: #777;
+
+    float: left;
+}
+.button{ 
+   width: 200rpx;  
+   height: 70rpx;
+     line-height: 70rpx;
+       font-size: 28rpx; 
+        background: #33FF99;
+          float: left;
+            margin-left: 10rpx;  
+            margin-top: 15rpx; 
+             color: #FFFFFF;
+             }

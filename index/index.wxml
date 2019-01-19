@@ -1,0 +1,11 @@
+<view class="index">
+
+<view class="doc-title zan-hairline--bottom"></view>
+<view >
+<text>登陆成功!</text>
+</view>
+<view class="signin">
+<button type="submit"catchtap="signin">个人信息录入</button>
+<button type="submit"catchtap="signin">校友查询</button>
+</view>
+</view>

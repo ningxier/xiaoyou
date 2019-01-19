@@ -1,0 +1,24 @@
+<view class="login">   
+
+  <view class="doc-title zan-hairline--bottom"></view> 
+     <view class="name"> 
+          <text>姓名</text>    
+            <input placeholder="姓名" type="text" bindinput="nameinput"/>      
+                </view>  
+                <view class="number">
+                <text>学号</text>
+                 <input placeholder="学号" type="text" bindinput="numberinput"/>      
+                </view>
+                  <view class="tel">   
+                     <text>电话</text>     
+                      <input placeholder="电话" type="text"  bindinput="telinput"/>       
+                         </view> 
+                           <view class="email">   
+                     <text>邮箱</text>     
+                      <input placeholder="邮箱" type="text"  bindinput="emailinput"/>       
+                         </view>  
+                                 
+                          <view class="signin2">   
+                          <button type="submit" catchtap="register">确认</button> 
+                             <button type="submit" catchtap="signin">取消</button>    
+                              </view></view>
